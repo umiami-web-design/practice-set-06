@@ -36,4 +36,6 @@ If instructions require you to use a property you haven't seen, look it up. Expl
 
 12. Set the `small` content inside `footer` to have a font size of 10 pixels.
 
+13. When finished, check your [CSS Validator](jigsaw.w3.org/css-validator/). This will help identify missing semicolons/colons, curly braces, incorrect property names, etc. Note it is not foolproof: just because a "valid" rule is written to meet syntax requirements doesn't mean it will work with your site! :)
+
 If you complete all these tasks, experiment with other selectors, properties to style the page as you see fit.

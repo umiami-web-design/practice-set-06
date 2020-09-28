@@ -25,3 +25,5 @@ As you go through each step, I recommend checking the code in Firefox. If someth
 9. Set the background color for the `preamble`, `articles` and `amendments` to be #eee.
 
 10. Set the background color for the `bill-of-rights` articles to be `#ccc`.
+
+11. When finished, check your [CSS Validator](jigsaw.w3.org/css-validator/). This will help identify missing semicolons/colons, curly braces, incorrect property names, etc. Note it is not foolproof: just because a "valid" rule is written to meet syntax requirements doesn't mean it will work with your site! :)
